@@ -9,7 +9,7 @@
 - <b>Log Analytics</b>
   - [Log Analytics Workspace](https://github.com/KaizenJS7/Log-Analytics-Workspaces/tree/main)
 - <b>Data Connectors</b>
-  - [Content Hub]()
+  - [Content Hub](https://github.com/KaizenJS7/Content-Hub/tree/main)
   - [Ingesting Threat Intalligence into Sentinel]()
   - [Verify Threat Intelligence Log Ingestion]()
   - [Ingesting Entra ID into Sentinel]()
